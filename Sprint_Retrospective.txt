@@ -1,0 +1,16 @@
+# Retrospectiva da Sprint - Desafio de Versionamento
+
+## O que funcionou bem?
+- O uso de branches separadas (`index` e `contato`) foi muito eficaz para isolar o desenvolvimento de cada tarefa.
+- O processo de `merge` para integrar as funcionalidades na branch `main` ocorreu sem conflitos.
+- A configuração da chave SSH, apesar de desafiadora, agora torna o processo de `push` mais ágil e seguro.
+- O uso de Milestones para definir as atividades também funcionou bem.
+
+## O que não funcionou tão bem?
+- A configuração inicial do repositório teve algumas idas e vindas até acertar o fluxo correto (SSH vs HTTPS, nome da branch).
+- A estimativa de esforço no Sprint Backlog foi feita sem ter uma noção de que algumaas tarefas foram feitas pela primeira vez.
+
+## Sugestões de Melhoria
+- Para os próximos projetos, verificar o método de autenticação (SSH/HTTPS) antes do primeiro `push` para economizar tempo.
+- Certificar de que arquivos temporarios estejam no gitignore antes de fazer o push.
+- Continuar usando o padrão de branches por funcionalidade, pois se provou uma excelente prática.

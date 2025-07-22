@@ -1,0 +1,25 @@
+# Sprint Backlog - Sprint 1: Mudanças em Páginas
+
+**Data de Início da Sprint:** 22 de Julho de 2025
+
+Este documento detalha as Histórias de Usuário selecionadas do Product Backlog para serem implementadas durante a Sprint atual.
+
+---
+
+## 👨‍💻 Equipe e Prazos
+
+* **Equipe:** Vinicius dos Santos Reis (Scrum Master e Desenvolvedor)
+* **Prazo de Entrega (Final da Sprint):** 22 de Julho de 2025
+* **Sprint Review:** 23 de Julho de 2025
+* **Sprint Retrospective:** 23 de Julho de 2025
+
+---
+
+## 📋 Histórias de Usuário e Tarefas Selecionadas
+
+| ID | História de Usuário | Tarefa de Desenvolvimento | Esforço Estimado |
+|:--:|---|---|:---:|
+| **1** | Como cliente da empresa e usuário do portal, eu quero, na página `index`, ver a fonte com os nomes dos veículos na cor azul para me proporcionar uma melhor experiência de usuário. | Mudar a cor do CSS dos nomes dos veículos para azul no arquivo `index.html`. | 1 Ponto |
+| **3** | Como cliente da empresa e usuário do portal, eu quero, na página `contato`, que os nomes dos links para as outras páginas sejam mais detalhados para facilitar o meu entendimento e a minha navegação no portal. | Alterar o texto descritivo dos links de navegação no arquivo `contato.html`. | 1 Ponto |
+
+**Esforço Total Estimado para a Sprint:** 2 Pontos
