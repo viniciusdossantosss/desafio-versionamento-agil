@@ -10,7 +10,6 @@ Este documento detalha as Histórias de Usuário selecionadas do Product Backlog
 
 * **Equipe:** Vinicius dos Santos Reis (Desenvolvedor)
 * **Prazo de Entrega (Final da Sprint):** 22 de Julho de 2025
-* **Sprint Review:** 23 de Julho de 2025
 * **Sprint Retrospective:** 23 de Julho de 2025
 
 ---
